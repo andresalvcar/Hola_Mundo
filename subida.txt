@@ -1,1 +1,2 @@
-Esto es un texto creado directamente en el ordenador y subido desde el navegador a mi repositorio
+Esto es un texto creado directamente en el ordenador y subido desde el navegador a mi repositorioNueva linea a añadir
+Nuevo cambio 2
